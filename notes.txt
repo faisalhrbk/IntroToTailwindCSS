@@ -6,3 +6,10 @@ almost noo need to write css in different files you can write inline css
 Every class has work for single utility
 no need to override css
 fast development
+
+OUTPUT CSS file banti hai dev kay wqt sirf necessary classes rehti hein baki wali css nahi jati development kay time server pe
+
+lightwwight than other framkeworks 
+
+
+
