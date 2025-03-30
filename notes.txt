@@ -33,5 +33,10 @@ then for output css file write this command in terminal
 
 npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
 
-
+aur ye head mai import krna hai
+  <link href="./output.css" rel="stylesheet">
 output and input.css ka naam dusra bhe rakhskte ho
+
+succsssfully installed tailwind css with cli
+and understood output file 
+output file jitni mai used huvi hai css html file mai wo waha rehti hai aur wo run time pe jati hai instead of puri tailwind css kay
