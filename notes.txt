@@ -419,3 +419,6 @@ Use h-auto for content-based height
 Use min-h-screen for full-page layouts
 
 Use max-h-screen for scrollable sections
+
+
+should i make a project
