@@ -11,5 +11,10 @@ OUTPUT CSS file banti hai dev kay wqt sirf necessary classes rehti hein baki wal
 
 lightwwight than other framkeworks 
 
+HOW TO INSTALL tailwind 
+CDN , with Node and Npm
+
+Setup with CDN
+just copy the script link and paste in head;
 
 
