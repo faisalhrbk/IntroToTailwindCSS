@@ -16,5 +16,22 @@ CDN , with Node and Npm
 
 Setup with CDN
 just copy the script link and paste in head;
+TAILWIND CSS core principle is utility first 
+
+2, SETUP TAILWIND CSS 4 WITH CLI
+for that we need node and npm which comes with node i have already installed
+
+npm install tailwindcss @tailwindcss/cli
+
+after running the command kuch files downlaod hongi like nodemoudules 
+phir ek input.css file name se ek file banawo aur uskay andr ye paste karo
+
+ @import "tailwindcss";
 
 
+then for output css file write this command in terminal
+
+npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
+
+
+output and input.css ka naam dusra bhe rakhskte ho
