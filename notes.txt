@@ -1,1 +1,8 @@
 bismillah to tailwind css
+
+CSS Framework 
+this is better than bootstrap
+almost noo need to write css in different files you can write inline css
+Every class has work for single utility
+no need to override css
+fast development
