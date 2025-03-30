@@ -119,7 +119,7 @@ Primary Colors: blue, red, green, yellow, purple, pink
 Other Colors: cyan, teal, lime, amber, rose, violet, fuchsia, sky, indigo, orange
 
 Shades Range: 50 (lightest) → 900 (darkest)
-
+==========================================================
 -----------------------------------------------------
 
 
@@ -253,3 +253,82 @@ If spans are inside a flexbox or grid, use gap-4 instead of margin.
 ✅ <div class="space-x-4"><span>Item 1</span><span>Item 2</span></div> → ✅ Works
 ✅ <div class="flex gap-4"><span>Item 1</span><span>Item 2</span></div> → ✅ Works
 🚫 <span class="mt-4">Text</span> → ❌ Doesn’t work
+
+
+================================================================
+-----------------------------------------------------
+
+📏 Tailwind CSS Width & Sizing (Min, Max, Full)
+1️⃣ Width (w-{size})
+w-0 → w-96 (Fixed width in rem)
+
+w-px (1px width)
+
+w-full (100% of parent)
+
+w-screen (100% of viewport)
+
+w-auto (Based on content)
+
+w-1/2, w-1/3, w-2/3 … (Fractional widths)
+
+w-10 (Spacing-based width, 2.5rem)
+
+2️⃣ Min-Width (min-w-{size})
+min-w-0 (No min-width)
+
+min-w-full (100% of parent)
+
+min-w-min (Shrink to fit)
+
+min-w-max (Expand as needed)
+
+3️⃣ Max-Width (max-w-{size})
+max-w-none (No limit)
+
+max-w-xs → max-w-7xl (Preset sizes)
+
+max-w-full (100% of parent)
+
+max-w-screen-sm/md/lg/xl/2xl (Relative to viewport)
+
+4️⃣ Height (h-{size})
+h-0 → h-96 (Fixed heights)
+
+h-full (100% of parent)
+
+h-screen (100% of viewport)
+
+h-auto (Based on content)
+
+h-1/2, h-1/3 … (Fractional heights)
+
+5️⃣ Min-Height (min-h-{size})
+min-h-0 (No min-height)
+
+min-h-full (100% of parent)
+
+min-h-screen (Full screen height)
+
+6️⃣ Max-Height (max-h-{size})
+max-h-full (100% of parent)
+
+max-h-screen (100vh)
+
+max-h-none (No limit)
+
+💡 Pro Tips:
+
+w-full h-screen = Fullscreen container
+
+max-w-screen-lg = Restrict width to lg screen size
+
+min-h-screen = Ensure minimum height covers the viewport
+
+🔥 Use with Flex/Grid:
+
+flex-grow, flex-shrink to make elements responsive
+
+aspect-{ratio} for maintaining aspect ratio
+===========================================================
+============================================================
