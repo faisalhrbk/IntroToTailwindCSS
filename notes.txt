@@ -40,3 +40,14 @@ output and input.css ka naam dusra bhe rakhskte ho
 succsssfully installed tailwind css with cli
 and understood output file 
 output file jitni mai used huvi hai css html file mai wo waha rehti hai aur wo run time pe jati hai instead of puri tailwind css kay
+
+
+
+FIRST STYLE WITH TAILWIND
+to use tailwind first run this command 
+npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
+
+NOTE : input aur output ka path dehan se do
+
+
+[&>*]:flex ye parent mai lagengy toh ye propersties child lagnegy instend of har child pe lagany kay
