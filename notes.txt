@@ -51,3 +51,11 @@ NOTE : input aur output ka path dehan se do
 
 
 [&>*]:flex ye parent mai lagengy toh ye propersties child lagnegy instend of har child pe lagany kay
+
+
+
+
+
+
+3 WORKING WITH COLORS
+instead of write every time --WATCH command ill add this in json
