@@ -20,8 +20,16 @@ TAILWIND CSS core principle is utility first
 
 2, SETUP TAILWIND CSS 4 WITH CLI
 for that we need node and npm which comes with node i have already installed
+first 
+npm init -y
 
 npm install tailwindcss @tailwindcss/cli
+
+ismai hi 2nd method
+first npm inti -y 
+npm install -d tailwindcss
+let this method abhi error deraha hai
+
 
 after running the command kuch files downlaod hongi like nodemoudules 
 phir ek input.css file name se ek file banawo aur uskay andr ye paste karo
@@ -422,3 +430,6 @@ Use max-h-screen for scrollable sections
 
 
 should i make a project
+
+ill start learining through creating projects
+
