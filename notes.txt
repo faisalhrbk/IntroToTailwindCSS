@@ -21,14 +21,9 @@ TAILWIND CSS core principle is utility first
 2, SETUP TAILWIND CSS 4 WITH CLI
 for that we need node and npm which comes with node i have already installed
 first 
-npm init -y
+
 
 npm install tailwindcss @tailwindcss/cli
-
-ismai hi 2nd method
-first npm inti -y 
-npm install -d tailwindcss
-let this method abhi error deraha hai
 
 
 after running the command kuch files downlaod hongi like nodemoudules 
@@ -427,9 +422,9 @@ Use h-auto for content-based height
 Use min-h-screen for full-page layouts
 
 Use max-h-screen for scrollable sections
+=======================================================================
+
+to set full height of parent element give class 'h-full' to parent and to child 'H-FULL' ab half kay liye 1/2 3,4,5,5... use karsktein hein
 
 
-should i make a project
-
-ill start learining through creating projects
 
